@@ -1,0 +1,17 @@
+{
+  "logo": "BTS WORLD",
+  "content": ["HOME", "BTS", "ABOUT US", "ACCOUNT"],
+  "ham": "../Images/hamburger.png",
+  "flower1": "../Images/a38.png",
+  "flower2": "../Images/a37-removebg-preview.png",
+  "gate": "../Images/a18.png",
+  "bangtan": "BANGTAN SONYEONDAN | BTS",
+  "quote": "Life goes on, let's live on",
+  "RM": "../Images/a21.jpg",
+  "Jin": "../Images/a22.jpg",
+  "Suga": "../Images/a52.jpg",
+  "Jhope": "../Images/a27.jpg",
+  "Jimin": "../Images/a28.jpg",
+  "V": "../Images/a54.jpg",
+  "Jungkook": "../Images/a30.jpg"
+}
